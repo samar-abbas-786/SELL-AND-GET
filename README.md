@@ -56,6 +56,9 @@ Welcome to the Hostel & Campus Marketplace website repository! This project aims
 ## ***Contact***
 For any inquiries or issues regarding the project, feel free to contact us at ***samarabbas172003@gmail.com***
 
+#### ***This project is currently under active development.  Features and improvements are being added regularly:*** 
+ 
+
 
  
 
